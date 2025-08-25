@@ -87,3 +87,12 @@ Install all required packages with:
 pip install numpy pandas yfinance matplotlib scipy
 ```
 
+## Included Files
+
+This repository includes both Jupyter Notebook (`.ipynb`) and PDF versions of the analysis files for convenience and reproducibility:
+
+- `Historical Method.ipynb` & `Historical Method.pdf` – Implements the Historical VaR calculation.  
+- `Parametric Method.ipynb` & `Parametric Method.pdf` – Implements the Parametric VaR calculation.  
+- `Monte Carlo Simulation.ipynb` & `Monte Carlo Simulation.pdf` – Implements the Monte Carlo VaR simulation.  
+
+Each notebook contains fully annotated code, explanations, and visualizations. The PDF versions provide a static view for easier sharing and demonstration without requiring a Python environment.
